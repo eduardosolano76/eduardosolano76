@@ -1,15 +1,15 @@
 # Hola, soy Eduardo Solano 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy estudiante de Ingeniería en Sistemas Computacionales, actualmente cursando mi residencia profesional (último semestre) y un apasionado por el desarrollo de software backend. 
+¡Bienvenido a mi perfil de GitHub! Soy recientemente egresado de la carrera de Ingeniería en Sistemas Computacionales y un apasionado por el desarrollo web Full Stack. 
 
-Me enfoco en crear soluciones eficientes y escalables, hasta la arquitectura del backend y su despliegue.
+Me enfoco en el ciclo de vida completo del software, desde la creación de interfaces dinámicas hasta la arquitectura del backend y la configuración de la infraestructura en la nube.
 
 ## 🚀 Sobre mí
 
-- 🎓 **Educación:** Cursando el último semestre de Ingeniería en Sistemas Computacionales.
-- 💻 **Proyecto actual:** Colaboro en el desarrollo de **SeProc**, un sistema web para la gestión del proceso constructivo de aulas tipo, trabajando en un equipo multidisciplinario para optimizar la supervisión de infraestructura educativa.
-- ⚙️ **Enfoque:** Desarrollo de APIs RESTful, arquitectura basada en microservicios y despliegue de aplicaciones en contenedores.
-- 🌱 **Siempre aprendiendo:** Buscando constantemente mejorar mis habilidades en el desarrollo web y la gestión de infraestructura.
+- 🎓 **Educación:** Egresado de Ingeniería en Sistemas Computacionales (Agosto 2021 - Junio 2026).
+- 💻 **Experiencia reciente:** Desarrollo e implementación de **SeProGuerrero**, un sistema web enfocado en la gestión de procesos constructivos para la infraestructura educativa.
+- ⚙️ **Enfoque:** Construcción de interfaces de usuario (Angular/React), desarrollo backend con arquitectura multitenant (Java y Spring Boot) y despliegue de aplicaciones en la nube.
+- 🌱 **Siempre aprendiendo:** Buscando constantemente mejorar mis habilidades en el desarrollo Full Stack y la administración de infraestructura/Cloud.
 
 ## 🛠️ Stack Tecnológico
 
@@ -19,6 +19,7 @@ Me enfoco en crear soluciones eficientes y escalables, hasta la arquitectura del
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
 ### Backend & Arquitectura
@@ -29,12 +30,12 @@ Me enfoco en crear soluciones eficientes y escalables, hasta la arquitectura del
   <img src="https://img.shields.io/badge/API_REST-FF4500?style=for-the-badge&logo=api&logoColor=white" alt="API REST" />
 </p>
 
-### Bases de Datos & Herramientas
+### Infraestructura, Bases de Datos & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
 
 ⭐️ *¡Gracias por visitar mi perfil! No dudes en revisar mis repositorios.*
