@@ -8,7 +8,7 @@ Me enfoco en el ciclo de vida completo del software, desde la creación de inter
 
 - 🎓 **Educación:** Egresado de Ingeniería en Sistemas Computacionales (Agosto 2021 - Junio 2026).
 - 💻 **Experiencia reciente:** Desarrollo e implementación de **SeProcGuerrero**, un sistema web enfocado en la gestión de procesos constructivos para la infraestructura educativa.
-- ⚙️ **Enfoque:** Construcción de interfaces de usuario (Angular/React), desarrollo backend con arquitectura multitenant (Java y Spring Boot) y despliegue de aplicaciones en la nube.
+- ⚙️ **Enfoque:** Construcción de interfaces de usuario (Angular), desarrollo backend con arquitectura multitenant (Java y Spring Boot) y despliegue de aplicaciones en la nube.
 - 🌱 **Siempre aprendiendo:** Buscando constantemente mejorar mis habilidades en el desarrollo Full Stack y la administración de infraestructura/Cloud.
 
 ## 🛠️ Stack Tecnológico
