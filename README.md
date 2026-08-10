@@ -1,6 +1,6 @@
 # Hola, soy Eduardo Solano 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy recientemente egresado de la carrera de Ingeniería en Sistemas Computacionales y un apasionado por el desarrollo web Full Stack. 
+¡Bienvenido a mi perfil de GitHub! Soy Ingenierío en Sistemas Computacionales y desarrollador web Full Stack. 
 
 Me enfoco en el ciclo de vida completo del software, desde la creación de interfaces dinámicas hasta la arquitectura del backend y la configuración de la infraestructura en la nube.
 
